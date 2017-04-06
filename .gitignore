@@ -106,3 +106,11 @@ typings/
 .idea
 editor.xml
 vcs.xml
+_linux
+colors.scheme.xml
+debugger.xml
+diff.xml
+ignore.xml
+IntelliLang.xml
+ui.lnf.xml
+web-browsers.xml
